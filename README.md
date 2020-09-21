@@ -9,10 +9,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my graduation in Software Engineering from OnTechU.
 - 🌱 I’m currently learning ML, Deep Learning, Android Mobile Development, ReactJS.
 - 👯 I’m looking to collaborate on any general web/mobile development projects.
-<!-- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about my school projects, personal projects, movies (generally anything).
 - 📫 How to reach me: Check out my contacts below.
-<!-- 😄 Pronouns: ... -->
 - ⚡ Fun fact: I like tinkering with things.
 
 ### Frameworks :gem:
