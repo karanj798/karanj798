@@ -63,15 +63,15 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px">
 </a>
 
-## Contacts :v:
+### Contacts :v:
 <a href="https://www.linkedin.com/in/karanj798/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
 </a>
 
-## Misc. :computer:
+### Misc. :computer:
 <a href="https://leetcode.com/karanj798/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px">
 </a>
-<br>
+<br><br>
 
 *Thanks to: [@MikeCodesDotNET](https://github.com/MikeCodesDotNET/ColoredBadges) for creating these awesome badges.*
